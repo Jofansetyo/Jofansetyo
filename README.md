@@ -19,7 +19,6 @@ Membangun aplikasi web dengan Laravel & React • Python + Machine Learning
 Jofan Setyo Alfaurizki
 21 years old
 junior software engineer
-Best ability is availabiality
 ```
 
 <br>
@@ -101,14 +100,17 @@ Platform tutoring dengan 3 role pengguna, 23 halaman
 
 ### - GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jofansetyo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD93D&icon_color=FF6B6B&text_color=ffffff" height="165"/>
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+  <img src="https://img.shields.io/github/followers/Jofansetyo?label=Followers&style=for-the-badge&color=FF6B6B" /><br><br>
+  <img src="https://img.shields.io/github/stars/Jofansetyo?label=Stars&style=for-the-badge&color=FFD93D" />
+</td>
+<td align="center" valign="middle">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jofansetyo&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FFD93D&currStreakLabel=FFD93D" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jofansetyo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD93D&text_color=ffffff" height="165"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
